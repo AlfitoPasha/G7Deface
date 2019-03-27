@@ -18,14 +18,15 @@ clear
 pip2 install requests
 clear
 pkg install toilet
+clear
 toilet -f slant "G7 Gans" | lolcat
 echo $me"####################["$cy"WELCOME"$me"]####################"
-echo $me"#"$cy"Deface Web"                                     $me"#"
-echo $me"#"$cy"Author  : G7Hckr"                               $me"#"
-echo $me"#"$cy"Team    : ERROR CYBER TEAM"                     $me"#"
-echo $me"#"$cy"Contact : +1 (315) 502-6913"                    $me"#"
-echo $me"###########################################################"
-sleep 3
+echo $me"#"$cy"Deface Web"$me                                     "#"
+echo $me"#"$cy"Author  : G7Hckr"$me                               "#"
+echo $me"#"$cy"Team    : ERROR CYBER TEAM"$me                     "#"
+echo $me"#"$cy"Contact : +1 (315) 502-6913"$me                    "#"
+echo $me"#####################################################"
+sleep 1
 echo
 echo $cy"::::::::::::::::::::::::::::::::::::::::::"
 echo $cy":"$ku"           TARGET  LIVE"$cy"                 :"
