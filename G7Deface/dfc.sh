@@ -18,7 +18,7 @@ pip2 install requests
 clear
 pkg install toilet
 clear
-gem install Ruby
+gem install ruby
 clear
 pkg install lolcat
 clear
