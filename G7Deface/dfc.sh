@@ -22,7 +22,7 @@ gem install ruby
 clear
 pkg install lolcat
 clear
-read -p "Your name" nama
+read -p "Your name :" nama
 clear
 figlet $nama | lolcat
 echo $me"####################["$cy"WELCOME"$me"]####################"
