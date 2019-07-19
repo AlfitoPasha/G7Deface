@@ -18,7 +18,13 @@ pip2 install requests
 clear
 pkg install toilet
 clear
-toilet -f slant "G7 Gans" | lolcat
+gem install Ruby
+clear
+pkg install lolcat
+clear
+read -p "Your name" nama
+clear
+figlet $nama | lolcat
 echo $me"####################["$cy"WELCOME"$me"]####################"
 echo $me"#"$cy"Deface Web"
 echo $me"#"$cy"Author  : G7Hckr"
